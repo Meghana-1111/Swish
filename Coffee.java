@@ -1,5 +1,5 @@
 import java.util.*;
-class Cofee
+class Coffee
 {
 public static void main(String args[])
 {
